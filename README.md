@@ -1,0 +1,12 @@
+Il seguente repository contiene il progetto per l'esame di Computer Graphics. Questo è stato scelto come campagna pubblicitaria per il lancio della nuova collezione di un brand ed è strutturato nel seguente modo:
+
+- src
+- media
+
+La prima cartella contiene 3 file diversi formato ".zip". Questi, per una corretta visualizzazione, devono essere "unzippati" ed aperti uno alla volta tramite applicazione Blender scaricabile dal [sito ufficiale](https://www.blender.org/download/). Ogni progetto è indipendente dagli altri.
+
+Nella sezione "media" è invece presente un altro file formato ".zip" contente 3 video, questi rappresentano il risultato dei singoli progetti presenti nella cartella "src":
+
+- "carte_risoluzione_nuova", simula la caduta di 3 carte stile gitano.
+- "sfere_risoluzione_nuova", simula la frantumazione di alcune sfere
+- "scacchiera_risoluzione_nuova", simula la creazione e trasformazione di una scacchiera in una nuova versione.

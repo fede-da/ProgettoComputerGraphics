@@ -1,0 +1,58 @@
+# File di sistema Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# File di backup temporanei creati dal sistema Mac
+*.swp
+*.swo
+
+# File temporanei che possono essere creati se stai usando un editor di testo
+*~
+*.tmp
+
+# Directory Icon? su sistemi Mac
+Icon?
+
+# File Thumb.db e .ehthumbs.db su Windows
+Thumbs.db
+ehthumbs.db
+
+# File .dfm, .nfm, .bak, .tfm
+*.dfm
+*.nfm
+*.bak
+*.tfm
+
+# Cartelle specifiche di Git che non dovrebbero mai essere ignorate
+!.gitignore
+!.gitattributes
+!.git
+
+# File di log
+*.log
+
+# File temporanei
+*.tmp
+*.temp
+*.swp
+*.bak
+*.BAK
+
+# File binari, immagini, ecc.
+*.bin
+*.dat
+*.bmp
+*.jpg
+*.png
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+*.jar
+*.pyc
+*.class
