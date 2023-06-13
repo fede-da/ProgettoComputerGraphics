@@ -10,3 +10,5 @@ Nella sezione "media" è invece presente un altro file formato ".zip" contente 3
 - "carte_risoluzione_nuova", simula la caduta di 3 carte stile gitano.
 - "sfere_risoluzione_nuova", simula la frantumazione di alcune sfere
 - "scacchiera_risoluzione_nuova", simula la creazione e trasformazione di una scacchiera in una nuova versione.
+
+Al seguente [link](https://drive.google.com/file/d/1B8OFDHOY2N9lMNYt2WWf1FUlDH2uR0Ur/view?usp=share_link) è possibile scaricare l'archivio contenente i video presenti nella cartella "media".
