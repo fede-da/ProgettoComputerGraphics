@@ -11,4 +11,4 @@ Nella sezione "media" è invece presente un altro file formato ".zip" contente 3
 - "sfere", simula la frantumazione di alcune sfere
 - "scacchiera", simula la creazione e trasformazione di una scacchiera in una nuova versione.
 
-Al seguente [link](https://drive.google.com/file/d/1B8OFDHOY2N9lMNYt2WWf1FUlDH2uR0Ur/view?usp=share_link) è possibile scaricare l'archivio contenente i video presenti nella cartella "media".
+Al seguente [link](https://drive.google.com/file/d/1Y6fJxR6Vt1mJZwkWZnVOo5VO1K4xtgEA/view?usp=share_link) è possibile scaricare l'archivio contenente i video presenti nella cartella "media".
